@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<net.siysoft.tifa.tifainput.TIFAKeyboardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard_views"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:shadowColor="@color/keyTextColor"
+    android:shadowRadius="0.0"
+    android:focusable="true"
+    android:keyTextColor="@color/keyTextColor"
+    android:keyBackground="@color/whitle"
+    android:focusableInTouchMode="true">
+
+</net.siysoft.tifa.tifainput.TIFAKeyboardView>
